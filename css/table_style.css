@@ -1,0 +1,49 @@
+.table,th,td{
+    border: 1px solid rgb(213, 212, 212);
+    border-collapse: collapse;
+}
+
+
+.key{
+    font-size: 9px;
+   
+}
+.grid-top{
+    background-color: rgb(232, 234, 236);
+    
+}
+.department{
+    display: flex;
+    
+}
+.department-1{
+    font-size:10px ;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+.department-2{
+    font-size:10px ;
+    margin-top: 30px;
+    margin-right: 40px ;
+}
+.department-3{
+    font-size:10px ;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.btn-1{
+        background-color: rgb(46, 253, 253);
+        width: 175px;
+        height: 35px;
+        margin-right: 150px;
+        margin-left: 125px;
+        border-radius: 15px;
+        border-color:aquamarine;
+}
+.btn-2{
+    background-color: rgb(250, 51, 51);
+    width: 175px;
+    height: 35px;
+    border-radius: 15px;
+    border-color: brown;
+}
